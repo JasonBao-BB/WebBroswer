@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/newPage"
+        android:title="NEW"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/prePage"
+        android:title="BACK"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/nextPage"
+        android:title="NEXT"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/goPage"
+        android:title="ENTER"
+        app:showAsAction="always"/>
+</menu>
